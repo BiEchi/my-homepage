@@ -1,6 +1,6 @@
 ---
-title: VS Code Extension for AT&T i386/IA32 Assembly Language Support
-summary: 
+title: 'VS Code Extension for AT&T i386/IA32 Assembly Language Support'
+summary: ''
 tags:
   - Engineering
 date: '2022-01-27T00:00:00Z'
@@ -11,6 +11,10 @@ external_link: ''
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+
+authors:
+  - admin
+  - lumetta
 
 # links:
 #   - icon: twitter
