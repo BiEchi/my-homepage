@@ -3,7 +3,7 @@ title: 'Professor Medo: An OpenAI-backend GPT-3 Chatbot Integration'
 summary: ''
 tags:
   - Engineering
-date: '2022-01-27T00:00:00Z'
+date: '2021-06-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

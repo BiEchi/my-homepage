@@ -3,7 +3,7 @@ title: 'VS Code Extension for AT&T i386/IA32 Assembly Language Support'
 summary: ''
 tags:
   - Engineering
-date: '2022-01-27T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
