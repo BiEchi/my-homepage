@@ -30,10 +30,5 @@ slides:
 
 ---
 
-{{< slide background-image="../content/slides/mesh-processing/images/Slide1.png" >}}
+{{< slide background-image="./content/slides/mesh-processing/images/Slide1.png" >}}
 
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
