@@ -35,6 +35,8 @@ content:
       tag: Computer Vision
     - name: Natural Language Processing
       tag: Natural Language Processing
+    - name: Network
+      tag: Network
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
