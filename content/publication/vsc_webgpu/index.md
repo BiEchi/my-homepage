@@ -39,11 +39,11 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 
-url_pdf: './paper.pdf'
-url_code: ''
+url_pdf: './publication/vsc_webgpu/paper.pdf'
+url_code: 'https://github.com/BiEchi/ece408-remote-control' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
