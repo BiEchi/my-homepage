@@ -14,7 +14,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tingkai Liu is a first year M.S. student at University of Illinois at Urbana-Champaign, who is advised by Prof. Volodymyr Kindratenko. He is currently researching in software systems. He is the Teaching Assitant of ECE 220 Honored Section of Professor Steve Lumetta, and is working on transplanting the data-parallel distributed training strategies I developed onto the Ray project. I'm keeping touch with Tingkai to help him with this project.
+bio: Tingkai Liu is a first year M.S. student at University of Illinois at Urbana-Champaign, who is advised by Prof. Volodymyr Kindratenko. He is currently researching in software systems. He is the Teaching Assitant of ECE 220 Honored Section of Professor Steve Lumetta, and is working on transplanting the data-parallel distributed training strategies I developed onto the Ray project. I'm keeping in touch with Tingkai to help him with this project.
 
 # Interests to show in About widget
 interests:
