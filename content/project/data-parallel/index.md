@@ -1,9 +1,9 @@
 ---
-title: 'Action Oriented Training for Pose Estimation'
+title: 'Distributed Data Parallel Training for Very Large Scale Deep Learning Models'
 summary: ''
 tags:
   - Research
-  - Computer Vision
+  - Distributed Training
 date: '2022-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,18 +15,21 @@ image:
 
 authors:
   - admin
-  - gaoang
+  - vlad
+  - tingkai
 
 links:
 #   - icon: microsoft
 #     icon_pack: fab
 #     name: 'MS Market Place'
 #     url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
-url_code: 'https://github.com/BiEchi/Pose3dDirectionalTraining'
+url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2'
 url_pdf: ''
-url_slides: './project/pose-est/slides.pdf'
-url_video: 'https://www.youtube.com/watch?v=KcuKOAQlX10&list=PLIG1CCi9Dz9JqqqHA3FsBplnMXjLNWNk7&index=6&t=257s'
+url_slides: ''
+url_video: ''
 
 ---
 
-As VideoPose3D takes various kinds of actions as input to fulfill the pose es- timation task while the dataset Human3.6M supports action classification, we managed to modify the model architecture so that the training takes one specific action as input.
+Research to modify very-large-scale NLP models like BERT and GPT2 to create data parallelism, including Single Parameter Server (SPS), Distributed Param- eter Server (DPS), Horovod, and Apex, with BERT based on Tensorflow and GPT2 based on PyTorch. Applied SPS and DPS for BERT, and all 6 data par- allel strategies for GPT2. The GPT2 part of work has been accepted by the Conference HP3C. I'll make it available after publication.
+
+Two subsequent projects to this project are model-parallel training and transplanting the strategies onto remote distributed systems like k8s and Ray.

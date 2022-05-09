@@ -1,9 +1,9 @@
 ---
-title: 'Action Oriented Training for Pose Estimation'
+title: 'Co-planar Data Enhancement of Human3.6M'
 summary: ''
 tags:
   - Research
-  - Computer Vision
+  - Data Enhancement
 date: '2022-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,6 +15,8 @@ image:
 
 authors:
   - admin
+  - Wenhao Chai
+  - Mu Xie
   - gaoang
 
 links:
@@ -22,11 +24,12 @@ links:
 #     icon_pack: fab
 #     name: 'MS Market Place'
 #     url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
-url_code: 'https://github.com/BiEchi/Pose3dDirectionalTraining'
+url_code: 'https://github.com/Reself-C/Self-supervised-Cross-view-3D-Human-Pose-Estimation-and-Localization-in-Video'
 url_pdf: ''
-url_slides: './project/pose-est/slides.pdf'
-url_video: 'https://www.youtube.com/watch?v=KcuKOAQlX10&list=PLIG1CCi9Dz9JqqqHA3FsBplnMXjLNWNk7&index=6&t=257s'
+url_slides: ''
+url_video: ''
 
 ---
 
-As VideoPose3D takes various kinds of actions as input to fulfill the pose es- timation task while the dataset Human3.6M supports action classification, we managed to modify the model architecture so that the training takes one specific action as input.
+As the dataset Human3.6M is single-object, this research aims to enhance this dataset by duplicating objects on the same plane with shifts, rotation, collision elimination, and disturbed camera movement. I implemented the collision elimi- nation part by modeling objects as 2D boxes so that no boxes have overlap with each other.
+
