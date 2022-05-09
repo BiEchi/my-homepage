@@ -16,24 +16,7 @@ organizations:
     url: https://www.ncsa.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Volodymyr Kindratenko is an Assistant Director at the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign where he serves as the Director for the Center for Artificial Intelligence Innovation (CAII).
-
-# Interests to show in About widget
-interests:
-  - Chatbots
-  - Image Segmentation
-  - Computer Networking
-  - Distributed Training
-
-# Education to show in About widget
-education:
-  courses:
-    - course: BSE in Electronics and Computer Engineering
-      institution: Zhejiang University
-      year: 2023
-    - course: BSE in Computer Engineering
-      institution: University of Illinois at Urbana-Champaign
-      year: 2023
+bio: Volodymyr Kindratenko is an Assistant Director at the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign where he serves as the Director for the Center for Artificial Intelligence Innovation (CAII). He is my best teacher, who encouraged me with the VSC-WebGPU project, Professor Medo at EOH 2022, Ashby Prize 2022, and the Distributed Data Parallel project.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +28,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=zh-CN&user=720Ix7QAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/biechi
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%98%8A-%E7%99%BD-780576212/
+    link: https://scholar.google.com/citations?user=Cy81VegAAAAJ&hl=zh-CN&oi=sra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
