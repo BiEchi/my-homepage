@@ -37,7 +37,7 @@ content:
       tag: Natural Language Processing
     - name: Network
       tag: Network
-    -name: VS Code Extension
+    - name: VS Code Extension
       tag: VS Code Extension
 
 design:
