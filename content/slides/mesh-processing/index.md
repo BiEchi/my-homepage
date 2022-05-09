@@ -32,10 +32,6 @@ slides:
 
 {{< slide background-image="../content/slides/mesh-processing/images/Slide1.png" >}}
 
-## Custom Slide
-
-Customize the slide style and background
-
 ```markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
