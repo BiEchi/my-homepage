@@ -21,9 +21,9 @@ links:
 #     icon_pack: fab
 #     name: 'MS Market Place'
 #     url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
-# url_code: 'https://github.com/BiEchi/at-t-i386-ia32-uiuc-ece391-highlighting'
+url_code: 'https://github.com/BiEchi/IterativeClosestPoint'
 url_pdf: ''
-url_slides: './content/project/mesh-processing/slides.pdf'
+url_slides: './project/mesh-processing/slides.pdf'
 url_video: ''
 
 # Slides (optional).
@@ -34,5 +34,7 @@ url_video: ''
 # slides: mesh-processing
 ---
 
-VS Code Extension that provides language support for AT&T i386 Assembly, integrating syntax highlighter, snippets, and linter (language server), based on the LC-3 language support by Qi Li. The extension has received more than 500 downloads in a single semester. Below is the snapshot of the README doc for this extension.
+In this workshop I and Jiahe invented 
+
+Previous research has invented a taxonomy of ICP algorithms according to the architecture of the ICP algorithm, and this research focuses on making a dif- ferent Taxonomy of ICP algorithms according to their application in the SLAM algorithms specifically.
 
