@@ -15,7 +15,7 @@ date: '2021-06-07T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-09T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: './publication/pose_est/paper.pdf'
 url_code: 'https://github.com/BiEchi/Pose3dDirectionalTraining'
 url_dataset: ''
 url_poster: ''
