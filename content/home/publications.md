@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -7,7 +7,7 @@ widget: pages
 headless: false
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
 title: Recent Publications
 subtitle: ''
@@ -19,8 +19,8 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'Conference Paper'
+    author: 'Jack Bai'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -38,4 +38,4 @@ design:
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
+{{% /callout %}}
