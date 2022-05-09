@@ -19,8 +19,8 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: 'Conference Paper'
-    author: 'Jack Bai'
+    publication_type: ''
+    author: '='
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover the [publications](./publication/) on the special page.
 {{% /callout %}}
