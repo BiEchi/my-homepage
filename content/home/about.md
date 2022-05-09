@@ -20,4 +20,3 @@ title: Biography
 author: admin
 ---
 
-# Jack Bai
