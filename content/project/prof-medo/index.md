@@ -22,7 +22,7 @@ links:
   #   icon_pack: fab
   #   name: 'MS Market Place'
   #   url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
-url_code: 'https://github.com/BiEchi/GoAutoBash'
+url_code: 'https://github.com/BiEchi/professor-medo'
 url_pdf: ''
 url_slides: ''
 url_video: ''
