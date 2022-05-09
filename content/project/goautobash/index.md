@@ -10,7 +10,7 @@ date: '2021-09-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Extension Overview.
+  caption: Architecture Overview
   focal_point: Smart
 
 authors:

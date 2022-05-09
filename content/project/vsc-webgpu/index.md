@@ -14,7 +14,7 @@ authors:
   - vlad
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Extension Overview
   focal_point: Smart
 
 links:

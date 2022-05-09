@@ -11,7 +11,7 @@ date: '2021-03-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: The ideology of this research.
+  caption: Final Result of Research
   focal_point: Smart
 
 authors:
