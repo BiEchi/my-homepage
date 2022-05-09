@@ -37,20 +37,19 @@ content:
   coordinates:
     latitude: '40.1149215'
     longitude: '-88.2248604'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - 'Weekdays 13:00 to 17:00, June 1 to July 30'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/Twitter'
+  #   - icon: video
+  #     icon_pack: fas
+  #     name: Zoom Me
+  #     link: 'https://zoom.com'
 
 design:
   columns: '2'
