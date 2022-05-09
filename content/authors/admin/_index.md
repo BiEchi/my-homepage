@@ -14,26 +14,21 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m a junior student receiving two Computer Engineering degrees at Zhejiang University, China and UIUC, USA. I’m currently researching on chatbots, image segmentation, and distributed training. My previous research topics include action recognition & pose estimation, image registration, and SLAM. I’m an open-source developer who implemented extensions for VS Code, applications for iOS and Android, and chatbots for Telegram, Discord, Slack, etc. I’m interested in computer networking and I started Hepta Workshop that focuses on web engineering. My life goal is to invent an open-source personalized animated chatbot integrating digital human, voice-text extraction & text-voice generation, structured knowledge-based self-reply, and think-tank intelligence.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Chatbots
+  - Image Segmentation
+  - Computer Networking
+  - Distributed Training
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSE in Computer Engineering (Double Degree)
+      institution: Zhejiang University & University of Illinois at Urbana-Champaign
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
