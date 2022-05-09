@@ -36,4 +36,4 @@ url_video: ''
 
 In this workshop I and Jiahe learnt from mesh processing, camera resgitration, numerical methods, and scanning algorithms. Professor Hao Li provided us with this great course and we implemented parts of the ICP algorithm ourselves! After the workshop I decided to learnt more about the ICP algorithms and do some rudimental research in this area.
 
-I found taht previous research has invented a taxonomy of ICP algorithms according to the architecture of the ICP algorithm, and this research focuses on making a dif- ferent Taxonomy of ICP algorithms according to their application in the SLAM algorithms specifically.
+I found that previous research has invented a taxonomy of ICP algorithms according to the architecture of the ICP algorithm, and this research focuses on making a dif- ferent Taxonomy of ICP algorithms according to their application in the SLAM algorithms specifically.

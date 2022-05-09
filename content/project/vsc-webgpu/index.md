@@ -16,14 +16,14 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-url_code: ''
+links:
+  - icon: microsoft
+    icon_pack: fab
+    name: MS Marketplace
+    url: https://marketplace.visualstudio.com/items?itemName=JackBAI.ece408-remote-control
+url_code: 'https://github.com/BiEchi/ece408-remote-control'
 url_pdf: ''
-url_slides: ''
+url_slides: './project/vsc-webgpu/slides.pdf'
 url_video: ''
 
 # Slides (optional).
