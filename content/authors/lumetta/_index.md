@@ -14,7 +14,7 @@ organizations:
     url: https://csl.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Steve Lumetta is an Associate Professor of Electrical and Computer Engineering, an Affiliate Associate Professor of Computer Science, and a Research Associate Professor in the Coordinated Science Laboratory at the University of Illinois at Urbana-Champaign. He is the professor who influenced me the most in my life, who showed me the spirits of a heacker and power of a programmer. The ECE 220 Honored Section provided by him totally cracked me and made me who I am now.
+bio: Professor Steve Lumetta is an Associate Professor of Electrical and Computer Engineering, an Affiliate Associate Professor of Computer Science, and a Research Associate Professor in the Coordinated Science Laboratory at the University of Illinois at Urbana-Champaign. The ECE 220 Honored Section provided by him was so strict about knowledge and the attitude to it, which totally cracked me and made me who I am now.
 
 # Interests to show in About widget
 interests:
