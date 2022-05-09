@@ -43,13 +43,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?hl=zh-CN&user=720Ix7QAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/biechi
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%98%8A-%E7%99%BD-780576212/
+    link: http://lumetta.web.engr.illinois.edu/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
