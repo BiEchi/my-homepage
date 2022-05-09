@@ -1,5 +1,5 @@
 ---
-title: 'GoAutoExecuter: Golang-based Multi-Thread Au- tomatic Pull-Execute Framework'
+title: 'GoAutoExecuter: Golang-based Multi-Thread Automatic Pull-Execute Framework'
 summary: ''
 tags:
   - Engineering
