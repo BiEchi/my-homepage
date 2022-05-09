@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Jack BAI
+title: Steven S. Lumetta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Junior Undergrad in Computer Engineering
+role: Associate Professor of Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Illinois at Urbana-Champaign
-    url: https://illinois.edu/
+  - name: Coordinated Science Laboratory
+    url: https://csl.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jack Bai is an undergradog with research interests mainly lie on chatbots, image segmentation, and distributed training. He is highly dedicated to natural language processing but also interested in image data augmentation like super-resolution and dataset enhancement. Although self-motivated, he still needs someone to support him and give him encouragenments.
+bio: Professor Steve Lumetta is an Associate Professor of Electrical and Computer Engineering, an Affiliate Associate Professor of Computer Science, and a Research Associate Professor in the Coordinated Science Laboratory at the University of Illinois at Urbana-Champaign. He is the professor who influenced me the most in my life, who showed me the spirits of a heacker and power of a programmer. The ECE 220 Honored Section provided by him totally cracked me and made me who I am now.
 
 # Interests to show in About widget
 interests:
