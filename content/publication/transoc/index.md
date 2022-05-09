@@ -1,5 +1,5 @@
 ---
-title: 'A Training Method For VideoPose3D with Ideology of Action Recognition'
+title: 'TranSoC: An Optimized Transformer SoC Design Based on The Gemmini Architecture on Chipyard Framework'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,6 +12,8 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Correspondent Author'
+  - 'Equal Contributor'
+  - 'Equal Contributor'
 
 date: '2021-09-03T00:00:00Z'
 doi: ''
@@ -56,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Sunset, Burnham 310, Champaign, Jack Bai'
+  caption: 'The magical Tree'
   focal_point: ''
   preview_only: false
 
