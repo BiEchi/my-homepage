@@ -31,7 +31,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: mesh-processing
 ---
 
 VS Code Extension that provides language support for AT&T i386 Assembly, integrating syntax highlighter, snippets, and linter (language server), based on the LC-3 language support by Qi Li. The extension has received more than 500 downloads in a single semester. Below is the snapshot of the README doc for this extension.
