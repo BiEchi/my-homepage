@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -8,6 +8,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 50
+
+draft: true
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -50,4 +52,4 @@ item:
 
 design:
   columns: '2'
---- -->
+---
