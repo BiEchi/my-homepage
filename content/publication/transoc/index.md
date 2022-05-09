@@ -7,7 +7,7 @@ title: 'TranSoC: An Optimized Transformer SoC Design Based on The Gemmini Archit
 authors:
   - Wentao Yao
   - admin
-  - Liyang Qian
+  - liyang
 
 # Author notes (optional)
 author_notes:
