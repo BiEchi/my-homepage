@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Networking
-      tag: Networking
-    - name: 
-      tag: Demo
+    - name: Research
+      tag: Research
+    - name: Engineering
+      tag: Engineering
+    - name: Others
+      tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
