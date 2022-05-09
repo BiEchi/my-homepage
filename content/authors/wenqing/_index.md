@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jack BAI
+title: M.S. Wenqing Luo
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Junior Undergrad in Computer Engineering
+role: First year M.S. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jack Bai is an undergradog but received much help from his friends and professors. He is very thankful for all those who helped him with his research and engineering works.
+bio: Wenqing Luo is a first year M.S. student in the Department of Computer Science at University of Illinois at Urbana-Champaign, who is advised by Prof. Tianyin Xu. He is the Teaching Assitant of ECE 220 Honored Section of Professor Steve Lumetta, and is the developer of the GoAutoGrader Project, which I learnt from. He is also the developer of the WeridOS, in which project he developed a network-enabled GUI Operating System from scratch. He's the best case to show "Talk is cheap, show me the code".
 
 # Interests to show in About widget
 interests:
@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Electronics and Computer Engineering
+    - course: BSE in Electronics and Computer Engineering
       institution: Zhejiang University
       year: 2023
-    - course: BSc in Computer Engineering
+    - course: BSE in Computer Engineering
       institution: University of Illinois at Urbana-Champaign
       year: 2023
 
