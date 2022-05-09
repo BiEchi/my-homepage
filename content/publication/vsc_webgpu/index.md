@@ -1,17 +1,15 @@
 ---
-title: 'An example conference paper'
+title: 'VSC-WebGPU: A Selenium-based VS Code Extension For Local Edit And Cloud Compilation on WebGPU'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Correspondent Author'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -26,13 +24,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2021 IEEE 3rd International Conference on Frontiers Technology of Information and Computer*
+publication_short: In *ICFTIC 2021*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'With the rapid development of information transmission, Software as a Service (SaaS) is developing at a rapid speed that everything originally local tends to be transplanted onto servers and executed on the cloud. WebGPU is such a SaaS system that it holds the GPU-equipped server to execute students’ CUDA code and releases the RESTful front-end website for students to write their code on. However, programming on an HTML-based interface is not satisfactory due to a lack of syntax highlighting and automatic keyword complement. On the other side, Visual Studio Code is now becoming the most popular programming interface due to its strong community and eclectic functionalities. Thus, we propose such a system that, students write code locally using VS Code with its coding-auxiliary extensions, and push the code to WebGPU with only one button pressed using our VSC-WebGPU extension. The extension is divided into 4 parts: the login process for automatically logging the student into WebGPU, the pull process that pulls the code down to the local workspace, the push process that copies the code to the browser for compiling and running, and the exit process to exit the browser and close the connection. This 4-step architecture is also applicable for any other automated tools to push local code to authorization- required SaaS systems using Web automata.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags: []
 
@@ -84,4 +82,3 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

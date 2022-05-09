@@ -5,7 +5,7 @@ title: 'A Training Method For VideoPose3D with Ideology of Action Recognition'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hao Bai
+  - admin
 
 # Author notes (optional)
 author_notes:
