@@ -27,12 +27,6 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 ---
 
-During the career of teaching assistant of ECE 220, I modified the GoAutoGrader program by Wenqing Luo on the server, which gives instant feedbacks and reference score to code assignments submitted. Extracted the program to a general Golang application that pulls code to the server for subsequent tasks whenever there is a GitHub submission, and queue the tasks with parallelization.
+This work utilized GPT-3 API provided by OpenAI as backend, to make responses to the front-ends including WeCom, Discord, Telegram, Slack. Due to restricted policy by Tencent, the support for WeChat has stopped. This project attended Illinois Engineering Open House (EOH 2022) Exhibition won the 2rd place on behalf of CAII, NCSA. This project leads to a wide interest in transplanting on course-related platforms for better education and may launch a relevant project.
