@@ -14,7 +14,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jack Bai's research interests mainly lie on chatbots, image segmentation, and distributed training currently.
+bio: Jack Bai is an undergradog but received much help from his friends and professors. He is very thankful for all those who helped him with his research and engineering works.
 
 # Interests to show in About widget
 interests:
