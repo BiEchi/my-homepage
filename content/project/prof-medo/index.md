@@ -15,6 +15,7 @@ image:
 authors:
   - admin
   - vlad
+  - sandeep
 
 links:
   # - icon: microsoft
