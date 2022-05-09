@@ -3,7 +3,7 @@ title: 'IntLife: Vue-based Uniapp Forum for college students'
 summary: ''
 tags:
   - Engineering
-  - Networking
+  - Network
 date: '2020-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
