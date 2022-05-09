@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Professor Steven Sam Lumetta
+title: Professor Hao Li
 
 # Is this the primary user of the site?
-superuser: False
+superuser: false
 
 # Role/position/tagline
-role: Associate Professor of Electrical and Computer Engineering
+role: Co-founder and CEO of Pinscreen, Inc.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://csl.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Steve Lumetta is an Associate Professor of Electrical and Computer Engineering, an Affiliate Associate Professor of Computer Science, and a Research Associate Professor in the Coordinated Science Laboratory at the University of Illinois at Urbana-Champaign. The ECE 220 Honored Section provided by him was so strict about knowledge and the attitude to it, which totally cracked me and made me who I am now.
+bio: Professor Hao Li is the co-founder and CEO of Pinscreen, Inc, as well as Distinguished Fellow at the University of California, Berkeley.
 
 # Interests to show in About widget
 interests:
@@ -59,6 +59,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a junior student receiving two Computer Engineering degrees at Zhejiang University, China and UIUC, USA. He is currently researching on chatbots, image segmentation, and distributed training. His previous research topics include action recognition & pose estimation, image registration, and SLAM. He is an open-source developer who implemented extensions for VS Code, applications for iOS and Android, and chatbots for Telegram, Discord, Slack, etc. He is interested in computer networking and he started Hepta Workshop that focuses on web engineering. His life goal is to invent an open-source personalized animated chatbot integrating digital human, voice-text extraction & text-voice generation, structured knowledge-based self-reply, and think-tank intelligence.
+Hao Li is a computer scientist, innovator, and entrepreneur from Germany, working in the fields of computer graphics and computer vision. He is founder and CEO of Pinscreen, Inc, as well as Distinguished Fellow at the University of California, Berkeley. He is my mentor of the Computer Graphics project, who taught me about mesh processing, camera registration, scanning techniques, ICP algorithms, etc. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Volodymyr Kindratenko
+title: Professor Volodymyr Kindratenko
 
 # Is this the primary user of the site?
 superuser: false
