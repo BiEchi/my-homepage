@@ -43,8 +43,8 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: http://lumetta.web.engr.illinois.edu/
-
+    link: http://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html
+    
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.

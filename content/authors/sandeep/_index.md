@@ -43,7 +43,7 @@ social:
     link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: http://lumetta.web.engr.illinois.edu/
+    link: https://experts.illinois.edu/en/persons/sandeep-puthanveetil-satheesan
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
