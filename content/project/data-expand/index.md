@@ -3,6 +3,7 @@ title: 'Co-planar Data Enhancement of Human3.6M'
 summary: ''
 tags:
   - Research
+  - Computer Vision
   - Data Enhancement
 date: '2021-03-01T00:00:00Z'
 

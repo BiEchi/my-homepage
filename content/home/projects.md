@@ -31,8 +31,10 @@ content:
       tag: Research
     - name: Engineering
       tag: Engineering
-    - name: Others
-      tag: Others
+    - name: Computer Vision
+      tag: Computer Vision
+    - name: Natural Language Processing
+      tag: Natural Language Processing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
