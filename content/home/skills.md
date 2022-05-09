@@ -24,10 +24,10 @@ feature:
     icon: python
     icon_pack: fas
     name: Python/PyTorch
-  - description: 10%
-    icon: camera-retro
+  - description: 40%
+    icon: golang
     icon_pack: fas
-    name: Photography
+    name: Golang
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
