@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: VS Code Extension for AT&T i386/IA32 Assembly Language Support
+summary: 
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'

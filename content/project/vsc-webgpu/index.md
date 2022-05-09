@@ -1,8 +1,8 @@
 ---
-title: VSC-WebGPU
-summary: VS Code Extension for Local Edit & Online Submission Tasks
+title: VSC-WebGPU: VS Code Extension for Local Edit & Online Submission Tasks
+summary:
 tags:
-  - Computer networking
+  - Network
 date: '2021-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
