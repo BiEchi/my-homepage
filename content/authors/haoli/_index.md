@@ -14,7 +14,7 @@ organizations:
     url: https://csl.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor Hao Li is the co-founder and CEO of Pinscreen, Inc, as well as Distinguished Fellow at the University of California, Berkeley.
+bio: Hao Li is a computer scientist, innovator, and entrepreneur from Germany, working in the fields of computer graphics and computer vision. He is founder and CEO of Pinscreen, Inc, as well as Distinguished Fellow at the University of California, Berkeley. He is my mentor of the Computer Graphics project, who taught me about mesh processing, camera registration, scanning techniques, ICP algorithms, etc. 
 
 # Interests to show in About widget
 interests:
