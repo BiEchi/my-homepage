@@ -1,5 +1,5 @@
 ---
-title: VSC-WebGPU: VS Code Extension for Local Edit & Online Submission Tasks
+title: 'VSC-WebGPU: VS Code Extension for Local Edit & Online Submission Tasks'
 summary:
 tags:
   - Engineering
