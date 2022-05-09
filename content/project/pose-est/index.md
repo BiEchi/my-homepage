@@ -30,6 +30,6 @@ url_video: ''
 
 ---
 
-As the dataset Human3.6M is single-object, this research aims to enhance this dataset by duplicating objects on the same plane with shifts, rotation, collision elimination, and disturbed camera movement. I implemented the collision elimi- nation part by modeling objects as 2D boxes so that no boxes have overlap with each other.
+Research to modify very-large-scale NLP models like BERT and GPT2 to create data parallelism, including Single Parameter Server (SPS), Distributed Param- eter Server (DPS), Horovod, and Apex, with BERT based on Tensorflow and GPT2 based on PyTorch. Applied SPS and DPS for BERT, and all 6 data par- allel strategies for GPT2. The GPT2 part of work has been accepted by the Conference HP3C. I'll make it available after publication.
 
-The paper for this project is not yet available, and will be available after publication to HP3C 2022. I'm also considering making a speech on the meeting.
+Two subsequent projects to this project are model-parallel training and transplanting the strategies onto remote distributed systems like k8s and Ray.
