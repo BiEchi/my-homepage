@@ -37,6 +37,8 @@ content:
       tag: Natural Language Processing
     - name: Network
       tag: Network
+    -name: VS Code Extension
+      tag: VS Code Extension
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
