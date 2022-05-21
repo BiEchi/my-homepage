@@ -18,13 +18,17 @@ authors:
   - haoli
 
 links:
-#   - icon: microsoft
-#     icon_pack: fab
-#     name: 'MS Market Place'
-#     url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
+  - icon: presentation-screen
+    icon_pack: fab
+    name: 'Proj Slides'
+    url: './project/mesh-processing/paper-slides.pdf'
+  - icon: presentation-screen
+    icon_pack: fab
+    name: 'Paper Slides'
+    url: './project/mesh-processing/proj-slides.pdf'
 url_code: 'https://github.com/BiEchi/IterativeClosestPoint'
 url_pdf: ''
-url_slides: './project/mesh-processing/slides.pdf'
+# url_slides: './project/mesh-processing/slides.pdf'
 url_video: ''
 
 # Slides (optional).
