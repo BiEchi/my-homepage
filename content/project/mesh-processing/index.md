@@ -18,11 +18,11 @@ authors:
   - haoli
 
 links:
-  - icon: presentation-screen
+  - icon: ''
     icon_pack: fab
     name: 'Proj Slides'
     url: './project/mesh-processing/paper-slides.pdf'
-  - icon: presentation-screen
+  - icon: ''
     icon_pack: fab
     name: 'Paper Slides'
     url: './project/mesh-processing/proj-slides.pdf'
