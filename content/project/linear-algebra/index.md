@@ -1,5 +1,5 @@
 ---
-title: 'Computer Vision and Computer Graphics Workshop'
+title: 'Statistical and Geometric Views of Linear Algebra'
 summary: ''
 tags:
   - Research
