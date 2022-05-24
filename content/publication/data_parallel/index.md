@@ -12,7 +12,7 @@ author_notes:
   - 'Correspondent Author'
 
 date: '2022-05-22T00:00:00Z'
-doi: '10.1109/ICFTIC54370.2021.9647189'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-07-28T00:00:00Z'
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Partial results of this research.'
+  caption: 'Partial results of this research'
   focal_point: ''
   preview_only: false
 
