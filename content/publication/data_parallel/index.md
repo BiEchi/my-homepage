@@ -40,7 +40,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Appendix
-  url: './publication/data_parallel/hp3c-appendix'
+  url: './publication/data_parallel/hp3c-appendix.pdf'
 
 url_pdf: ''
 url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2' 
