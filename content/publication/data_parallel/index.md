@@ -40,7 +40,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Appendix
-  url: './publications/data_parallel'
+  url: './publication/data_parallel/hp3c-appendix'
 
 url_pdf: ''
 url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2' 
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Partial results of this research.'
   focal_point: ''
   preview_only: false
 
