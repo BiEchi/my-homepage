@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/%E6%98%8A-%E7%99%BD-780576212/
   - icon: zhihu
     icon_pack: fab
-    link: https://www.zhihu.com/people/da-zhi-ruo-yu-43-88
+    link: https://www.zhihu.com/people/jackgethome
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
