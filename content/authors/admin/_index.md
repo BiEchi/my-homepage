@@ -18,10 +18,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - Chatbots
-  - Image Segmentation
-  - Computer Networking
-  - Distributed Training
+  - Prompt tuning for few-shot Learning and continual learning
+  - Reinforcement learning in dialog state tracking
+  - Dense & Fine-grained Object Detection
 
 # Education to show in About widget
 education:
@@ -68,6 +67,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a junior student receiving two Computer Engineering degrees at Zhejiang University, China and UIUC, USA. He is currently a researcher on few-shot dialog system (transfer learning), continuous learning, image segmentation, and distributed training frameworks. His previous research topics include action recognition & pose estimation, image registration, and SLAM. He is an open-source developer who implemented extensions for VS Code, applications for iOS and Android, and chatbots for Telegram, Discord, Slack, etc. He is interested in computer networking and he started Hepta Workshop that focuses on web engineering.
+Jack Bai is a junior student receiving two Computer Engineering degrees, at Zhejiang University, China and UIUC, USA. He is currently a researcher on prompt tuning for few-shot learning and continuous learning in dialog system. He is also interested in object detection, especially in a fine-grained and dense scenario. He finished rudimental researches on distributed deep learning frameworks, action-oriented pose estimation, and image registration in SLAM. He is an open-source developer who implemented extensions for VS Code, applications for iOS and Android, and chatbots for Telegram, Discord, Slack, etc. He is interested in computer networking and he started Hepta Workshop that focuses on web engineering.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
