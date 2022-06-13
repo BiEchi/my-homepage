@@ -6,21 +6,23 @@ title: Jack BAI
 superuser: true
 
 # Role/position/tagline
-role: Junior Undergrad in Computer Engineering
+role: Intern at Blender Lab, UIUC
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Illinois at Urbana-Champaign
-    url: https://illinois.edu/
+  - name: Blender Lab, UIUC
+    url: https://blender.cs.illinois.edu/
+  - name: NCSA, UIUC
+    url: https://www.ncsa.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jack Bai is an undergradog but received much help from his friends and professors. He is very thankful for all those who helped him with his research and engineering works.
 
 # Interests to show in About widget
 interests:
-  - Prompt tuning for few-shot Learning and continual learning
+  - Prompt tuning for few-shot learning and continual learning
   - Reinforcement learning in dialog state tracking
-  - Dense & Fine-grained Object Detection
+  - Dense & fine-grained object detection
 
 # Education to show in About widget
 education:
