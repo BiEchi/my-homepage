@@ -1,5 +1,5 @@
 ---
-title: 'A Training Method For VideoPose3D with Ideology of Action Recognition'
+title: 'ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,11 +11,11 @@ authors:
 author_notes:
   - 'Correspondent Author'
 
-date: '2021-06-07T00:00:00Z'
+date: '2022-05-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-09T00:00:00Z'
+publishDate: '2022-07-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,13 +24,13 @@ publishDate: '2022-03-09T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 International Conference on Signal Processing and Machine Learning*
-publication_short: In *CONF-SPML 2021*
+publication: In *The 4th International Conference on Computing and Data Science*
+publication_short: In *CONF-CDS 2022*
 
-abstract: Action recognition and pose estimation from videos are closely related to understand human motions, but more literature focuses on how to solve pose estimation tasks alone from action recognition. This research shows a faster and more flexible training method for VideoPose3D which is based on action recognition. This model is fed with the same type of action as the type that will be estimated, and different types of actions can be trained separately. Evidence has shown that, for common pose-estimation tasks, this model requires a relatively small amount of data to carry out similar results with the original research, and for action-oriented tasks, it outperforms the original research by 4.5% with a limited receptive field size and training epoch on Velocity Error of MPJPE. This model can handle both action-oriented and common pose-estimation problems.
+abstract: 'The Iterative Closest Point (ICP) algorithm is one of the most important algorithms for geometric alignment of three-dimensional surface registration, which is frequently used in computer vision tasks, including the Simultaneous Localization And Mapping (SLAM) tasks. In this paper, we illustrate the theoretical principles of the ICP algorithm, how it can be used in surface registration tasks, and the traditional taxonomy of the variants of the ICP algorithm. As SLAM is becoming a popular topic, we also introduce a SLAM-oriented taxonomy of the ICP algorithm, based on the characteristics of each type of SLAM task, including whether the SLAM task is online or not and whether the landmarks are present as features in the SLAM task. We make a synthesis of each type of SLAM task by comparing several up-to-date research papers and analyzing their implementation details.'
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ''
 
 tags: []
 
@@ -38,23 +38,23 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+# - name: ''
+#   url: ''
 
-url_pdf: 'https://arxiv.org/pdf/2206.06430.pdf'
-url_code: 'https://github.com/BiEchi/Pose3dDirectionalTraining'
+url_pdf: 'https://arxiv.org/abs/2206.06435'
+url_code: 'https://github.com/BiEchi/IterativeClosestPoint' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=KcuKOAQlX10&list=PLIG1CCi9Dz9JqqqHA3FsBplnMXjLNWNk7&index=5&t=257s'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Sunset, Burnham 310, Champaign, Jack Bai'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -64,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pose-est
+  - mesh-processing
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -81,3 +81,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
+

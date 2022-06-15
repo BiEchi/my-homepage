@@ -42,7 +42,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './publication/vsc_webgpu/paper.pdf'
+url_pdf: 'https://arxiv.org/pdf/2206.06428.pdf'
 url_code: 'https://github.com/BiEchi/ece408-remote-control' 
 url_dataset: ''
 url_poster: ''
