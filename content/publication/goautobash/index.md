@@ -1,5 +1,5 @@
 ---
-title: 'ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy'
+title: 'GoAutoBash: Golang-based Multi-Thread Automatic Pull-Execute Framework with GitHub Webhooks And Queuing Strategy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,7 +27,7 @@ publication_types: ['1']
 publication: In *The 4th International Conference on Computing and Data Science*
 publication_short: In *CONF-CDS 2022*
 
-abstract: 'The Iterative Closest Point (ICP) algorithm is one of the most important algorithms for geometric alignment of three-dimensional surface registration, which is frequently used in computer vision tasks, including the Simultaneous Localization And Mapping (SLAM) tasks. In this paper, we illustrate the theoretical principles of the ICP algorithm, how it can be used in surface registration tasks, and the traditional taxonomy of the variants of the ICP algorithm. As SLAM is becoming a popular topic, we also introduce a SLAM-oriented taxonomy of the ICP algorithm, based on the characteristics of each type of SLAM task, including whether the SLAM task is online or not and whether the landmarks are present as features in the SLAM task. We make a synthesis of each type of SLAM task by comparing several up-to-date research papers and analyzing their implementation details'
+abstract: 'Recently, more and more server tasks are done using full automation, including grading tasks for students in the college courses, integrating tasks for programmers in big projects and server-based transactions, and visualization tasks for researchers in a data-dense topic. Using automation on servers provides a great possibility for reducing the burden on manual tasks. Although server tools like CI/CD for continuous integration and Hexo for automated blog deployment have been developed, they're highly dedicated to certain functionalities and thus lack general usage. In this paper, we introduce a Golang-based automation framework that reacts to the events happening on GitHub in a multi-thread approach. This framework utilizes a queue to arrange the tasks submitted and execute each task with a thread in a preemptive manner. We then use the project GoAutoGrader to illustrate a specific implementation of this framework and its value in implementing high-freedom server applications. As Golang is developing in a rapid way because of its incredible parallel programming efficiency and a super-easy way to learn on the basis of C-like programming languages, we decide to develop this system in Golang.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,8 +42,8 @@ links:
 # - name: ''
 #   url: ''
 
-url_pdf: 'https://arxiv.org/pdf/2206.06435.pdf'
-url_code: 'https://github.com/BiEchi/IterativeClosestPoint' 
+url_pdf: 'https://arxiv.org/pdf/2206.06401.pdf'
+url_code: 'https://github.com/BiEchi/GoAutoBash' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -64,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - mesh-processing
+  - goautobash
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
