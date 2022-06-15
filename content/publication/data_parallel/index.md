@@ -42,7 +42,7 @@ links:
 - name: 'Appendix'
   url: './publication/data_parallel/hp3c-appendix.pdf'
 
-url_pdf: 'https://arxiv.org/pdf/2206.06356.pdf'
+url_pdf: ''
 url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2' 
 url_dataset: ''
 url_poster: ''
