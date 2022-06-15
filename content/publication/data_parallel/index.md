@@ -15,7 +15,7 @@ date: '2022-05-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-22T00:00:00Z'
+publishDate: '2022-06-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ links:
 - name: 'Appendix'
   url: './publication/data_parallel/hp3c-appendix.pdf'
 
-url_pdf: 'https://arxiv.org/abs/2206.06356'
+url_pdf: 'https://arxiv.org/pdf/2206.06356.pdf'
 url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2' 
 url_dataset: ''
 url_poster: ''
