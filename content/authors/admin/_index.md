@@ -21,8 +21,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 # Interests to show in About widget
 interests:
   - Prompt tuning for few-shot learning and continual learning
-  - Reinforcement learning in dialog state tracking
-  - Dense & fine-grained object detection
+  - News applications of dialog state tracking (DST)
+  - Salient object detection and instance segmentation
+  - Visual prompt tuning
 
 # Education to show in About widget
 education:
