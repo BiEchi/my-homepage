@@ -26,8 +26,8 @@ links:
 #     url: https://marketplace.visualstudio.com/items?itemName=JackBAI.at-t-i386-ia32-uiuc-ece391-highlighting
 url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2'
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: './project/data-parallel/slides.pdf'
+url_video: 'https://drive.google.com/file/d/1XvgTkfNjhGOig6bpzaXvE8s0P5BODv75/view'
 
 ---
 

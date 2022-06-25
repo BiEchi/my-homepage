@@ -47,9 +47,9 @@ url_code: 'https://github.com/BiEchi/DistributedTrainingGPT2'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: './project/data-parallel/slides.pdf'
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1XvgTkfNjhGOig6bpzaXvE8s0P5BODv75/view'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
