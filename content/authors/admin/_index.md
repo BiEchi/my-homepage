@@ -51,10 +51,10 @@ social:
     link: https://github.com/biechi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%98%8A-%E7%99%BD-780576212/
+    link: https://www.linkedin.com/in/jackgethome/
   - icon: zhihu
     icon_pack: fab
-    link: https://www.zhihu.com/people/jackgethome
+    link: https://www.zhihu.com/people/jackgethome/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,6 +70,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a junior student receiving two Computer Engineering degrees, at Zhejiang University (ZJ, China) and UIUC (IL, USA). He is interested in Natural Language Processing, and is a research intern on prompt tuning for few-shot learning and continuous learning in dialog system in the Blender NLP Lab, UIUC. He is also a Computer Vision intern on salient object detection and instance segmentation in NCSA, UIUC. He finished rudimental researches on distributed deep learning frameworks, action-oriented pose estimation, and image registration in SLAM. He is an open-source developer who implemented extensions for VS Code, applications for iOS and Android, and chatbots for Telegram, Discord, Slack, etc. He is interested in computer networking and he started Hepta Workshop that focuses on web engineering.
+Jack Bai is a candidate senior Computer Engineering student at Zhejiang University (ZJ, China) and UIUC (IL, USA). He is a research intern in the Blender NLP Lab, UIUC, and a research intern in the National Center of Supercomputing Applications (NCSA). He is currently researching on multi-modain task-oriented dialog system and fine-grained instance segmentation. He was a research intern at Center for Artificial Intelligence Innovation, NCSA, which focused on distributed deep learning frameworks, and a research intern in action-oriented pose estimation, and image registration in SLAM. He is an open-source developer who implemented extensions for VS Code, and chatbots for Telegram, Discord, Slack, etc. He is interested in full-stack development and he founded the Hepta Workshop. He is particularly interested in Artificial General Intelligence (AGI) and aims to implement part of the world model proposed by Yann LeCun.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
