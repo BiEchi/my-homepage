@@ -20,9 +20,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing: Large Generative Langauge Models, Dialog Systems, Few-shot Learning, Continual Learning, Prompt Tuning
-  - Artificial General Intelligence: Reinforcement Learning, Joint Embedding Predictive Architecture
-  - Computer Vision: Salient object detection, instance segmentation
+  - [Natural Language Processing] Large Generative Langauge Models, Dialog Systems, Few-shot Learning, Continual Learning, Prompt Tuning
+  - [Artificial General Intelligence] Reinforcement Learning, Joint Embedding Predictive Architecture
+  - [Computer Vision] Salient object detection, instance segmentation
 
 # Education to show in About widget
 education:
