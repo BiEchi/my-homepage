@@ -21,9 +21,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 # Interests to show in About widget
 interests:
   - (NLP) LM, Dialog Systems, Prompt Tuning
-  - Paradigms - Few-shot Learning, Continual Learning
-  - CV - Salient Object Detection, Instance Segmentation
-  - AGI - RL, VAE, JEPA
+  - (Paradigms) Few-shot Learning, Continual Learning
+  - (CV) Salient Object Detection, Instance Segmentation
+  - (AGI) RL, VAE, JEPA
 
 # Education to show in About widget
 education:
