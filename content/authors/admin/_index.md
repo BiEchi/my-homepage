@@ -23,7 +23,8 @@ interests:
   - (NLP) LM, Dialog Systems, Prompt Tuning
   - (Paradigms) Few-shot Learning, Continual Learning
   - (CV) Salient Object Detection, Instance Segmentation
-  - (AGI) RL, VAE, JEPA
+  - (AGI) RL, VAE, JEPA, World Model
+  - (Others) Neurobiology, Finance, Spanish
 
 # Education to show in About widget
 education:
