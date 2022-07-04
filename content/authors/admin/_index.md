@@ -20,10 +20,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - (NLP) LM, Dialog Systems, Prompt Tuning
-  - (Paradigms) Few-shot Learning, Continual Learning
-  - (CV) Salient Object Detection, Instance Segmentation
-  - (AGI) RL, VAE, JEPA, World Model
+  - (CV/NLP) LM, Dialog Systems, Instance Segmentation
+  - (Arch) DL Frameworks, Distributed Architectures
+  - (AGI) RL, JEPA, World Model
   - (Others) Neurobiology, Finance, Spanish
 
 # Education to show in About widget
@@ -71,6 +70,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a candidate senior Computer Engineering student at Zhejiang University (ZJ, China) and UIUC (IL, USA). He is a part-time research intern at the Blender NLP Lab, UIUC, and a research intern at the National Center of Supercomputing Applications (NCSA). He is currently researching on multi-modain task-oriented dialog system and fine-grained instance segmentation. He was a research intern at Center for Artificial Intelligence Innovation, NCSA, which focused on distributed deep learning frameworks, and a research intern on action-oriented pose estimation, and image registration in SLAM. He is an open-source developer who implemented extensions for VS Code, and chatbots for Telegram, Discord, Slack, etc. He is the founder of the Hepta Workshop, which focuses on full-stack web engineering. He is particularly interested in Artificial General Intelligence (AGI) and aims to implement part of the world model proposed by Yann LeCun as the senior thesis.
+Jack Bai is a candidate senior Computer Engineering student at Zhejiang University (ZJ, China) and UIUC (IL, USA). He is a part-time research intern at the Blender NLP Lab, UIUC, and a research intern at the National Center of Supercomputing Applications (NCSA). He is currently researching on task-oriented dialog systems and fine-grained instance segmentation. He was a research intern at Center for Artificial Intelligence Innovation, NCSA, which focused on distributed deep learning frameworks, and a research intern on pose estimation & image registration. He is the author of the book *Modern Deep Learning Architectures: Operating Systems, Programming Languages, Libraries And Frameworks*. He is an open-source developer who implemented extensions for VS Code, and chatbots for Telegram, Discord, Slack, etc. He is the founder of the Hepta Workshop, which focuses on full-stack web engineering. He is particularly interested in Artificial General Intelligence (AGI) and aims to implement part of the world model proposed by Yann LeCun as the senior thesis.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
