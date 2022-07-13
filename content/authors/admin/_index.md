@@ -20,10 +20,9 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - (CV/NLP) LM, Dialog Systems, Instance Segmentation
-  - (Arch) DL Frameworks, Distributed Architectures
-  - (AGI) RL, JEPA, World Model
-  - (Others) Neurobiology, Finance, Spanish
+  - (Directions) Continual Learning, Dialog Systems, Multimodal Information Extraction
+  - (Methodologies) Prompt Tuning, Large Language Models
+  - (Others) Finance, Reinforcement Learning, DL Architectures, Artificial General Intelligence
 
 # Education to show in About widget
 education:
