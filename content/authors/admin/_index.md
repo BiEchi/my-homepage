@@ -20,7 +20,7 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - (CV) Instance segmentation, text-to-image Generation
+  - (CV) Instance segmentation, text-to-image generation
   - (NLP) Code generation, open-domain question answering, information extraction
   - (Framework) Modern deep learning frameworks, distributed data processing frameworks
   - (RL) Quantitative finance, POMDP modeling, world model, AGI
