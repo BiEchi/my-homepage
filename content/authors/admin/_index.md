@@ -20,9 +20,10 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - (Directions) Continual Learning, Dialog Systems, Multimodal Information Extraction
-  - (Methodologies) Prompt Tuning, Large Language Models
-  - (Others) Finance, Reinforcement Learning, DL Architectures, Artificial General Intelligence
+  - (CV) Instance segmentation, text-to-image Generation
+  - (NLP) Code generation, open-domain question answering, information extraction
+  - (Framework) Modern deep learning frameworks, distributed data processing frameworks
+  - (RL) Quantitative finance, POMDP modeling, world model, AGI
 
 # Education to show in About widget
 education:
@@ -69,6 +70,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a candidate senior Computer Engineering student at Zhejiang University (ZJ, China) and UIUC (IL, USA). He is a part-time research intern at the Blender NLP Lab, UIUC, and a research intern at the National Center of Supercomputing Applications (NCSA). He is currently researching on task-oriented dialog systems and fine-grained instance segmentation. He was a research intern at Center for Artificial Intelligence Innovation, NCSA, which focused on distributed deep learning frameworks, and a research intern on pose estimation & image registration. He is the author of the book *Modern Deep Learning Architectures: Operating Systems, Programming Languages, Libraries And Frameworks*. He is an open-source developer who implemented extensions for VS Code, and chatbots for Telegram, Discord, Slack, etc. He is the founder of the Hepta Web Workshop and Hepta AI Lab. He is also interested in Artificial General Intelligence (AGI) and currently aims to implement part of the world model proposed by Yann LeCun after graduation.
+Jack Bai is a senior Computer Engineering student at Zhejiang University (ZJ, China) and UIUC (IL, USA). He was a research intern with Prof. Heng Ji at Blender Lab, UIUC, and a research intern with Prof. Volodymyr Kindtatenko and Prof. Jooyoung Seo at NCSA, UIUC. He has a wide research topic in gradient-based methods, including NLP, CV, Frameworks, and Quantitative Finance. He studied (NLP) task-oriented dialog systems, code generation models, (CV) multi-object tracking, surface registration, fine-grained instance segmentation and (Framework) distributed deep learning frameworks. He is currently (NLP) researching on open-domain question answering and (Quants) earning Certificate in Quantitative Finance (CQF). He is the contracted individual author of the book (Framework) *Modern Deep Learning Frameworks: A Top-down Approach* with Tsinghua University Press and Springer. He is an open-source developer who implemented language servers and Selenium-based automation tools for VS Code. He is the founder of *Hepta Web Engineering* and *HeptaAI Lab* clubs. He plan to study more about reinforcement learning and follow the hierarchical AGI approach proposed by Yann LeCun in the paper *A Path Towards Autonomous Machine Intelligence* in his master/PhD degree. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
