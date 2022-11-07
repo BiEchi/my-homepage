@@ -24,19 +24,22 @@ bio: Jack Bai is an undergradog but received much help from his friends and prof
 
 # Interests to show in About widget
 interests:
-  - (CV) Instance segmentation, text-to-image generation
-  - (NLP) Code generation, open-domain question answering, information extraction
-  - (Framework) Modern deep learning frameworks, distributed data processing frameworks
-  - (RL) Quantitative finance, POMDP modeling, world model, AGI
+  - (CV) Instance segmentation, image/text-image generation
+  - (NLP) Code generation, ODQA, IE, dialog systems
+  - (MLSys) DLSys, Distributed Frameworks
+  - (RL) Quants, POMDP, AGI
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Electronics and Computer Engineering
+    - course: BE in Electronics and Computer Engineering
       institution: Zhejiang University
       year: 2023
     - course: BSc in Computer Engineering
       institution: University of Illinois at Urbana-Champaign
+      year: 2023
+    - course: Holder of Certificate of Quantitative Finance
+      institution: CQF Institute, Fitch Learning
       year: 2023
 
 # Social/Academic Networking
@@ -60,8 +63,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: file-cv
+    icon_pack: fab
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -71,6 +74,6 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Jack Bai is a senior Computer Engineering student at Zhejiang University and UIUC (dual degree), and a research intern at MSRA. He was a research intern with Prof. Heng Ji and Prof. Chengxiang Zhai at UIUC, and a research intern with Prof. Volodymyr Kindtatenko and Prof. Jooyoung Seo at NCSA. He has a wide research topic on gradient-based methods, including NLP, CV, Frameworks, and Quantitative Finance. He studied (NLP) code generation models, open-domain question answering, (CV) multi-object tracking, surface registration, fine-grained instance segmentation and (Framework) distributed deep learning frameworks. He is currently (NLP) researching on moral value prediction, dialog systems and (Quants) earning Certiﬁcate in Quantitative Finance. He is the contracted author of the book (Framework) Software Frameworks for Deep Learning with Tsinghua University Press, and a reviewer of IJCIA. He is an open-source developer who implemented language servers and Selenium-based automation tools for VS Code. He is the founder of Hepta Web Engineering and HeptaAI Lab clubs.
+Jack Bai is a senior Computer Engineering student at Zhejiang University and UIUC (dual degree), and a research intern at MSRA. He was a research intern with Prof. Heng Ji and Prof. Chengxiang Zhai at UIUC, and a research intern with Prof. Volodymyr Kindtatenko and Prof. Jooyoung Seo at NCSA. He has a wide research topic on gradient-based methods, including NLP, CV, MLSys, and Quantitative Finance. He studied (NLP) code generation models, open-domain question answering, (CV) multi-object tracking, surface registration, fine-grained instance segmentation and (MLSys) distributed deep learning frameworks. He is currently (NLP) researching on moral value prediction, dialog systems and (Quants) earning Certiﬁcate in Quantitative Finance. He is the contracted author of the book (MLSys) Software Frameworks for Deep Learning with Tsinghua University Press, and a reviewer of IJCIA. He is an open-source developer who implemented language servers and Selenium-based automation tools for VS Code. He is the founder of Hepta Web Engineering and HeptaAI Lab clubs.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
