@@ -8,6 +8,8 @@ superuser: true
 # Role/position/tagline
 role: Research Intern, MSRA
 
+role: haob2@illinois.edu
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Microsoft Research Asia
