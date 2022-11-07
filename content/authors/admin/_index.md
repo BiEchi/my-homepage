@@ -1,15 +1,17 @@
 ---
 # Display name
-title: Jack BAI
+title: Jack (Hao) BAI
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Intern, Blender Lab, UIUC
+role: Research Intern, MSRA
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Microsoft Research Asia
+    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
   - name: Blender Lab, UIUC
     url: https://blender.cs.illinois.edu/
   - name: NCSA, UIUC
@@ -40,9 +42,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&user=720Ix7QAAAAJ
