@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: ./resume.pdf
+  link: https://www.zhihu.com/people/jackgethome/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'haob2@illinois.edu'
