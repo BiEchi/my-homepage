@@ -14,20 +14,16 @@ role: haob2@illinois.edu
 organizations:
   - name: Microsoft Research Asia
     url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
-  - name: Blender Lab, UIUC
-    url: https://blender.cs.illinois.edu/
-  - name: NCSA, UIUC
-    url: https://www.ncsa.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jack Bai is an undergradog but received much help from his friends and professors. He is very thankful for all those who helped him with his research and engineering works.
 
 # Interests to show in About widget
 interests:
-  - (CV) Instance segmentation, image/text-image generation
-  - (NLP) Code generation, ODQA, IE, dialog systems
-  - (MLSys) DLSys, Distributed Frameworks
-  - (RL) Quants, POMDP, AGI
+  - (CV) XAI, diffusion model
+  - (NLP) LLM, dialog system
+  - (MLSys) DLSys
+  - (Quant) Derivatives
 
 # Education to show in About widget
 education:
