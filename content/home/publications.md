@@ -29,11 +29,11 @@ content:
 
     - name: All
       tag: '*'
-    - name: Topic1-Interact Efficiently
+    - name: Topic1-Interaction/Engagement
       tag: interaction
-    - name: Topic2-Stay Up-to-date
+    - name: Topic2-Continuality/Timeliness
       tag: up-to-date
-    - name: Topic3-Explainability
+    - name: Topic3-Reliability/Explainability
       tag: explain
 
 design:
