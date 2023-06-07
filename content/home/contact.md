@@ -1,5 +1,5 @@
----
-<!--# An instance of the Contact widget.
+<!-- ---
+# An instance of the Contact widget.
 widget: contact
 
 # This file represents a page section.
@@ -52,5 +52,6 @@ content:
   #     link: 'https://zoom.com'
 
 design:
-  columns: '2'-->
+  columns: '2'
 ---
+-->
