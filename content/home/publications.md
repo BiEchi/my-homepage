@@ -32,7 +32,7 @@ content:
     - name: Topic1-Interaction/Engagement
       tag: interaction
     - name: Topic2-Continuality/Timeliness
-      tag: up-to-date
+      tag: time
     - name: Topic3-Reliability/Explainability
       tag: explain
 
