@@ -52,4 +52,4 @@ design:
 ---
 -->
 
-The publication paper is still under development. Publications will be released at the end of this year.
+The publication page is still under development. Publications will be released at the end of this year.
