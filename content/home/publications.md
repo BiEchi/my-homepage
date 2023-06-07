@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Core Publications
 subtitle: ''
 
 content:
@@ -26,10 +26,9 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Research
-      tag: Research
-    - name: Engineering
-      tag: Engineering
+
+    - name: All
+      tag: '*'
     - name: CV
       tag: Computer Vision
     - name: NLP
@@ -38,8 +37,7 @@ content:
       tag: Network
     - name: Extensions
       tag: VS Code Extension
-    - name: All
-      tag: '*'
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
