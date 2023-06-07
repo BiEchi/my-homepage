@@ -29,15 +29,12 @@ content:
 
     - name: All
       tag: '*'
-    - name: CV
-      tag: Computer Vision
-    - name: NLP
-      tag: Natural Language Processing
-    - name: Network
-      tag: Network
-    - name: Extensions
-      tag: VS Code Extension
-
+    - name: Topic1-Interact Efficiently
+      tag: interaction
+    - name: Topic2-Stay Up-to-date
+      tag: up-to-date
+    - name: Topic3-Explainability
+      tag: explain
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
