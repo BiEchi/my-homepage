@@ -6,36 +6,30 @@ title: Jack (Hao) BAI
 superuser: true
 
 # Role/position/tagline
-role: Research Intern, MSRA
-
-role: haob2@illinois.edu
+role: CS M.S. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Microsoft Research Asia
-    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+  - name: University of Illinois, Urbana Champaign
+    url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jack Bai is an undergradog but received much help from his friends and professors. He is very thankful for all those who helped him with his research and engineering works.
+bio: Learn and think.
 
 # Interests to show in About widget
 interests:
-  - (CV) XAI, diffusion model
-  - (NLP) LLM, dialog system
-  - (MLSys) DLSys
-  - (Quant) Derivatives
+  - Dialog Query Generation
+  - Causal Attribution
+  - Online and Continual Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Electronics and Computer Engineering
-      institution: Zhejiang University
-      year: 2023
-    - course: BSc in Computer Engineering
-      institution: University of Illinois at Urbana-Champaign
-      year: 2023
-    - course: Holder of Certificate of Quantitative Finance
-      institution: CQF Institute, Fitch Learning
+    - course: MS in Computer Science
+      institution: University of Illinois, Urbana Champaign
+      year: 2025
+    - course: BS in Computer Engineering
+      institution: University of Illinois, Urbana-Champaign
       year: 2023
 
 # Social/Academic Networking
