@@ -1,4 +1,4 @@
-<!-- ---
+---
 
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -50,6 +50,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
--->
+
 
 The publication page is still under development. Publications will be released at the end of this year.
