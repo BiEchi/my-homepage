@@ -51,5 +51,4 @@ design:
   flip_alt_rows: false
 ---
 
-
-<!-- The publication page is still under development. Publications will be released at the end of this year. -->
+The publications are not complete. Some work are too early and some work are still in the publication process.
