@@ -18,10 +18,9 @@ bio: Learn and think.
 
 # Interests to show in About widget
 interests:
-  - Dialog Query Generation
-  - Knowledge Citation
+  - Knowledge Grounding
+  - Dialog System
   - Causal Attribution
-  - Online and Continual Learning
 
 # Education to show in About widget
 education:
