@@ -6,9 +6,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 100
 
-title: My Views
+title: Views
 ---
 
 **Interpretability**
