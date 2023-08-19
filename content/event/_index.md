@@ -14,4 +14,3 @@ header:
   image: ''
 ---
 
-Can you see this?
