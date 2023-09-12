@@ -18,9 +18,9 @@ bio: Learn and think.
 
 # Interests to show in About widget
 interests:
+  - Hallucination Control
   - Efficient Modality Alignment
-  - Retrieval Augmented Generation
-  - Interpretable Attribution Methods
+  - White-box Foundational Models
 
 # Education to show in About widget
 education:
