@@ -11,7 +11,7 @@ weight: 60
 title: Collaboration
 ---
 
-I’ve got some interesting ideas that’s promising but I currently lack bandwidth to work on. If you’re interested in working with me, send an application email to me indicating your interests and previous work.  Due to a large amount of applications, I can only interview UIUC CS students (either undergrad or grad) for this semester. Please indicate whether you’ve got experience/knowledge in the fields below:
+I’ve got some interesting ideas that’s promising but I currently lack bandwidth to work on. If you’re interested in working with me, send an application to me with your CV indicating your interests and previous work.  Due to a large amount of applications, I can only interview UIUC CS students (either undergrad or grad) for this semester. Please indicate whether you’ve got experience/knowledge in the fields below:
 
 **Expected (mainly for Undergrad students)**
 
