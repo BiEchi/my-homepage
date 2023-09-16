@@ -23,6 +23,7 @@ I’ve got some interesting ideas that’s promising but I currently lack bandwi
 
 -   Game Theory.
 -   Information Theory.
+-   Model interpretability.
 -   Random Process.
 -   Neuroscience.
 
