@@ -18,8 +18,8 @@ bio: Learn and think.
 
 # Interests to show in About widget
 interests:
-  - Hallucination Control
-  - Efficient Modality Alignment
+  - Representation Learning
+  - Explainable Modality Alignment
   - White-box Foundational Models
 
 # Education to show in About widget
