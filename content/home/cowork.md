@@ -28,3 +28,6 @@ I’ve got some interesting ideas that’s promising but I currently lack bandwi
 -   Neuroscience.
 
 No hard restrictions on your previous publications. If you published a paper at NIPS or TPAMI please mentor me ;p
+
+
+
