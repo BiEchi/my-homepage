@@ -19,8 +19,8 @@ bio: Learn and think.
 # Interests to show in About widget
 interests:
   - Representation Learning
+  - Reinforcement Learning
   - Mechanistic Interpretation
-  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -64,8 +64,8 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Hi, there! I'm **Jack**. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, with great honor to be advised by Prof. Heng Ji. The core of my research is in **representation learning**, and especially **dictionary learning** for the causal attention mechanism, which naturally involves pre-training, auto-encoding, mechanistic interpretation, etc. I'm also a fan of **theories**, mainly information theory and game theory.
+Hi, there! I'm **Jack**. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, with great honor to be advised by Prof. Heng Ji. The core of my research is in **representation learning**, and especially dictionary learning for causal attention and modality fusion, which naturally involves skillsets like pre-training, auto-encoding, mechanistic interpretation, etc. I'm also a fan of **theories**, mainly information theory and game theory.
 
-**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, working on structured **information retrieval** in the **Blender Lab** with Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ) and Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). He is also a research intern of the **BAIR Lab**, working on **representation learning** of white-box Transformer models with Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering, during which period he interned at Microsoft Research working on **language-based incident root cause prediction** with Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa ChatBot Grand Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) researching **search query generation**. Except experience mentioned above, his work also reflects interests in financial time series prediction, open-domain QA, software frameworks for deep learning, etc.
+**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, working on structured **information retrieval** in the **Blender Lab** with Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ). He is also a research intern of the **BAIR Lab**, working on **representation learning** of white-box Transformer models with Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering, during which period he interned at Microsoft Research working on **incident text root cause prediction** with Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa ChatBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) researching **search query generation**, advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). Except experience mentioned above, his work also reflects interests in financial time series prediction, open-domain QA, software frameworks for deep learning, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
