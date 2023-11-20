@@ -27,6 +27,10 @@ Going either way, it's inevitable to do comprehensive survey before designing an
 
 Under such framework, quick publication is not a good idea for a real researcher, because they lack a ton of considerations and real-life applications. As suggested by Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), when she assesses a student, **quality is much more important than quantity**. A student must have 1st authorship paper published at top-tier conference, but as long as he has some, the number becomes insignificant. Having publishments means the student has participated in the complete process of a research, and having a **solid** and **creative** publishment means the student is strict and creative. On the other hand, having too many publications is extremely confusing to PIs when they view the CV and may lead to an impression that the student focuses more on **fame** per se instead of **research**. This kind of impression is extremely bad and usually causes an instinctive refusion.
 
+**On Model Edit by Changing Weights Directly**
+
+I’m a strongly against the idea to edit model weights directly. Editing a neuron (or a layer) changes not only this fact, but potentially all the facts, and it inadvertently hurts the model representation. The only promising way to change is to only change a single neuron that’s controlling this specific fact, but research has shown that transformer models try to compress representations, so it’s not possible for find orthogonal subspaces of facts for neurons.
+
 **The Three Circles**
 
 Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ) proposed the three circles when we do research: the **Passion** circle, the **Benefit** circle and the **Resource** circle. These circles construe what ideas we choose, how valuable the idea is, and whether we can achieve them. Having good circles reduces peer pressure significantly, and when looking back, the person usually have already achieved a lot and will not feel like a loser.
