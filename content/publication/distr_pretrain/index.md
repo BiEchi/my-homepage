@@ -32,7 +32,7 @@ abstract: 'Distributed deep learning is becoming increasingly popular due to the
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['explain']
+tags: ['infra']
 
 # Display this page in the Featured widget?
 featured: false
