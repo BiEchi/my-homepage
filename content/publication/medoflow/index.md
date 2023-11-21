@@ -27,12 +27,13 @@ publication_types: ['7']
 publication: Published by university publisher *Illinois Digital Environment for Access to Learning and Scholarship*
 publication_short: Published by *IDEALS 2023*
 
-abstract: 'Very large-scale (VLS) deep learning models are capable of generating meaningful code snippets, yet the performance drops dramatically when the coding task becomes more complex. Although fully neural approaches have been proposed to solve this problem, the value of the application is still limited. In our work, we propose a neuro-symbolic approach that integrates the symbolic natures of programming and the existing neural language models. We divide a programming task into three phases: forming a hierarchical task composed of functions, completing each function, and fulfilling the corner cases. Because each phase can be completed by language models, the coding process can be fully automated. Our contribution is three-fold. Firstly, we show that with little help from humans, VLS language models are capable of completing non-trivial programming tasks. Secondly, we provide a number of empirical insights to create prompt templates that help the language models generate better code. Thirdly, compared to the existing approaches, our work provides a much more practical approach for programmers and researchers to follow. The generated programming project using our fully automated programming approach and part of the ablation study code are available at https://github.com/BiEchi/FAP.'
+abstract: 'MedoFlow utilizes Python as the framework frontend and TVM as the framework backend. The frontend implements the computational graph, auto gradient calculation (autograd) system, shape inference system, and operator abstractions. The backend implements the TVM implementation of a vari- ety of operators such as Matrix Multiplication (MatMul), Convolutional-2D (Conv2D) and Max Pooling-2D (Maxpool2D), to facilitate parallel computa- tion on a set of compilers such as LLVM and CUDA. This framework facili- tates to implement complex applications such as LeNet-5 and the Recurrent Neural Network (RNN).
+To illustrate MedoFlow is comparable to mainstream frameworks, this work conducts comprehensive experiments on a variety of models like Multi- layer Perceptron (MLP), LeNet-5 and RNN using PyTorch, TensorFlow and MedoFlow to compare their accuracy and time efficiency. Experimental re- sults show that MedoFlow reaches the same level of accuracy as the other frameworks, and its time efficiency can be significantly improved by im- plementing small TVM optimizations. The code is publicly available at https://github.com/BiEchi/MedoFlow.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['explain']
+tags: ['infra']
 
 # Display this page in the Featured widget?
 featured: false

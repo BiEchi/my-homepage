@@ -29,12 +29,12 @@ content:
 
     - name: All
       tag: '*'
-    - name: Topic1-Interaction/Engagement
-      tag: interaction
-    - name: Topic2-Continuality/Timeliness
-      tag: time
-    - name: Topic3-Reliability/Explainability
-      tag: explain
+    - name: Topic1-Information Retrieval
+      tag: ir
+    - name: Topic2-Representation Learning
+      tag: rep
+    - name: Topic3-DL Infrastructure
+      tag: infra
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -51,4 +51,4 @@ design:
   flip_alt_rows: false
 ---
 
-The publications are not complete. Some work are too early and some work are still in the publication process.
+The publications are not complete. Some work are protected and some work are still in the publication process.

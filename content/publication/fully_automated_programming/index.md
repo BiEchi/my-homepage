@@ -32,7 +32,7 @@ abstract: 'Very large-scale (VLS) deep learning models are capable of generating
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['interaction']
+tags: ['rep']
 
 # Display this page in the Featured widget?
 featured: false
