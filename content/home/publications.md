@@ -29,11 +29,11 @@ content:
 
     - name: All
       tag: '*'
-    - name: Level 1 - Observations
+    - name: Level1-Observations
       tag: observation
-    - name: Level 1 - Theories
+    - name: Level2-Theories
       tag: theory
-    - name: Level 1 - Applications
+    - name: Level3-Applications
       tag: app
 
 design:
