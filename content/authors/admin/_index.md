@@ -19,8 +19,7 @@ bio: Learn and think.
 # Interests to show in About widget
 interests:
   - Representation Learning
-  - Reinforcement Learning
-  - Mechanistic Interpretation
+  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -37,6 +36,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: mail
+    icon_pack: fab
+    link: mailto:haob2@illinois.edu
   - icon: google-scholar # fab: graduation-cap
     icon_pack: ai # fab
     link: https://scholar.google.com/citations?hl=zh-CN&user=720Ix7QAAAAJ
@@ -66,10 +68,10 @@ highlight_name: true
 
 Hi, there! I'm Jack. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, where I’m fortunate to be advised by Prof. Heng Ji. The core of my research lies broadly in **how modern model understands knowledge**. I work on this problem upon these levels: 
 
-- On the observation level, I study latent representations learned by modern deep neural networks, especially for causal attention and modality fusion, which naturally involves pre-training, dictionary learning, mechanistic interpretation, etc.
-- On the theoretical level, I study classical theories based on the observations to interpret what and how the models are learning, especially information theory, optimization theory, and game theory.
-- On the application level, I leverage such-obtained conceptual insights to design interpretable, efficient, and principled algorithms for knowledge structuring and learning, with a special interest in how high-level intelligent agents understand knowledge and how it maps to human.
+- On the **observation** level, I study *latent representations* learned by modern deep neural networks, especially for causal attention and modality fusion, which naturally involves pre-training, dictionary learning, mechanistic interpretation, etc.
+- On the **theoretical** level, I study classical theories based on the observations to *interpret* what and how the models are learning, especially information theory, optimization theory, and game theory.
+- On the **application** level, I leverage such-obtained conceptual insights to design interpretable, efficient, and principled algorithms for *knowledge structuring and learning*, with a special interest in how high-level intelligent agents understand knowledge and how it maps to human.
 
-**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, working on structured **information retrieval** in the **Blender Lab** with Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ). He is also a research intern of the **BAIR Lab**, working on **representation learning** with Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering, during which period he interned at Microsoft Research working on **incident text root cause prediction** with Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa ChatBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) researching **search query generation**, advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). Except experience mentioned above, his work also reflects interests in financial time series prediction, open-domain QA, software frameworks for deep learning, etc.
+**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, working on structured **information retrieval** in the Blender Lab with Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ). He is also a research intern of the BAIR Lab, working on **representation learning** with Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering, during which period he interned at Microsoft Research working on **incident text root cause prediction** with Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa ChatBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) researching **search query generation**, advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). Except experience mentioned above, his work also reflects interests in financial time series prediction, open-domain QA, software frameworks for deep learning, etc.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
