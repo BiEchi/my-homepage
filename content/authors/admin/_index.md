@@ -36,7 +36,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelop
+  - icon: envelope
     icon_pack: fab
     link: mailto:haob2@illinois.edu
   - icon: google-scholar # fab: graduation-cap
