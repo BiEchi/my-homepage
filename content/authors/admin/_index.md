@@ -37,7 +37,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: ai
     link: mailto:haob2@illinois.edu
   - icon: google-scholar # fab: graduation-cap
     icon_pack: ai # fab
