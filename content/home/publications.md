@@ -29,11 +29,11 @@ content:
 
     - name: All
       tag: '*'
-    - name: Topic1-Information Retrieval
+    - name: Level 1 - Observations
       tag: observation
-    - name: Topic2-Representation Learning
+    - name: Level 1 - Theories
       tag: theory
-    - name: Topic3-DL Infrastructure
+    - name: Level 1 - Applications
       tag: app
 
 design:
