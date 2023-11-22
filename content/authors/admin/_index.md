@@ -64,7 +64,7 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Hi, there! I'm Jack. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, where I’m fortunate to be advised by Prof. Heng Ji. The core of my research lies broadly in **how modern model understands knowledge**. I work on this problem through these threads: 
+Hi, there! I'm Jack. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, where I’m fortunate to be advised by Prof. Heng Ji. The core of my research lies broadly in **how modern model understands knowledge**. I work on this problem upon these levels: 
 
 - On the observation level, I study latent representations learned by modern deep neural networks, especially for causal attention and modality fusion, which naturally involves pre-training, dictionary learning, mechanistic interpretation, etc.
 - On the theoretical level, I study classical theories based on the observations to interpret what and how the models are learning, especially information theory, optimization theory, and game theory.
