@@ -30,11 +30,11 @@ content:
     - name: All
       tag: '*'
     - name: Topic1-Information Retrieval
-      tag: ir
+      tag: observation
     - name: Topic2-Representation Learning
-      tag: rep
+      tag: theory
     - name: Topic3-DL Infrastructure
-      tag: infra
+      tag: app
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
