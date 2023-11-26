@@ -29,12 +29,10 @@ content:
 
     - name: All
       tag: '*'
-    - name: Level1-Observations
-      tag: observation
-    - name: Level2-Theories
-      tag: theory
-    - name: Level3-Applications
-      tag: app
+    - name: Bottom Up
+      tag: bottom-up
+    - name: Top-down
+      tag: top-down
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

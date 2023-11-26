@@ -32,7 +32,7 @@ abstract: 'In this paper, we contend that a natural objective of representation 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['lr']
+tags: ['bottom-up']
 
 # Display this page in the Featured widget?
 featured: false

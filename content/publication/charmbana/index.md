@@ -34,7 +34,7 @@ information, and produces search queries that are more relevant, specific, and c
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['app']
+tags: ['top-down']
 
 # Display this page in the Featured widget?
 featured: false
