@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jack (Hao) BAI
+title: Hao (Jack) BAI
 
 # Is this the primary user of the site?
 superuser: true
