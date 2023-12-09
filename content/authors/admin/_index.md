@@ -70,7 +70,7 @@ highlight_name: true
 Hi, there! I'm Jack. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, where I’m fortunate to be advised by Prof. Heng Ji. The core of my research is in **robust machine learning** towards [**autonomous intelligence**](https://openreview.net/pdf?id=BZ5a1r-kVsf). I work on this problem upon two levels:
 
 - I study **representation learning** for modern vision/language models (especially for causal attention) to understand & interpret what and how the models are learning.
-- Based on the understanding of foundational models, I study **closed-loop learning** algorithms like reinforcement learning and self-supervised learning upon these models.
+- Based on these understanding of foundational models, I study **closed-loop learning** algorithms like reinforcement learning and self-supervised learning upon these models.
 
 On the application side, I apply these studies to augment intelligence, with special focus on *interactive agents* and *information retrieval*.
 
