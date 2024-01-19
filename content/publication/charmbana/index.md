@@ -5,11 +5,16 @@ title: 'Social Commonsense-Guided Search Query Generation for Open-Domain Knowle
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Revanth Gangi Reddy
   - admin
+  - Wentao Yao
+  - Sharath Suresh
+  - Heng Ji
+  - Chengxiang Zhai
 
 # Author notes (optional)
 author_notes:
-  - 'Correspondent Author'
+  -
 
 # date: '2022-06-08T00:00:00Z'
 # doi: '10.1109/ICFTIC54370.2021.9647189'
