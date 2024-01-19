@@ -1,5 +1,5 @@
 ---
-title: 'Social Commonsense-Guided Search Query Generation for Open-Domain Knowledge-Powered Conversations'
+title: 'Social Commonsense-Guided Search Query Generation for Open-Domain Knowledge-Powered Conversations (EMNLP-23)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -29,8 +29,8 @@ author_notes:
 publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: Published by university publisher *Illinois Digital Environment for Access to Learning and Scholarship*
-publication_short: Published by *IDEALS 2023*
+publication: EMNLP'23
+publication_short: In *EMNLP'23*
 
 abstract: 'Open-domain dialog involves generating search
 queries that help obtain relevant knowledge for holding informative conversations. However, it can be challenging to determine what information to retrieve when the user is passive and does not express a clear need or request. To tackle this issue, we present a novel approach that focuses on generating internet search queries that are guided by social commonsense. Specifically, we leverage a commonsense dialog system to establish connections related to the conversation topic, which subsequently guides our query generation. Our proposed framework addresses passive user interactions by integrating topic tracking, commonsense response generation and instructiondriven query generation. Through extensive evaluations, we show that our approach1 overcomes limitations of existing query generation techniques that rely solely on explicit dialog
