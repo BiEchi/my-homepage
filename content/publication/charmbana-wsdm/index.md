@@ -1,5 +1,5 @@
 ---
-title: 'Social Commonsense-Guided Search Query Generation for Open-Domain Knowledge-Powered Conversations (EMNLP-23)'
+title: 'CharmBana: Progressive Responses with Real-Time Internet Search for Knowledge-Powered Conversations (WSDM-24)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,20 +26,27 @@ author_notes:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['7']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: EMNLP'23
-publication_short: In *EMNLP'23*
+publication: WSDM'24
+publication_short: In *WSDM'24*
 
-abstract: 'Open-domain dialog involves generating search
-queries that help obtain relevant knowledge for holding informative conversations. However, it can be challenging to determine what information to retrieve when the user is passive and does not express a clear need or request. To tackle this issue, we present a novel approach that focuses on generating internet search queries that are guided by social commonsense. Specifically, we leverage a commonsense dialog system to establish connections related to the conversation topic, which subsequently guides our query generation. Our proposed framework addresses passive user interactions by integrating topic tracking, commonsense response generation and instructiondriven query generation. Through extensive evaluations, we show that our approach1 overcomes limitations of existing query generation techniques that rely solely on explicit dialog
-information, and produces search queries that are more relevant, specific, and compelling, ultimately resulting in more engaging responses.'
+abstract: 'Chatbots are often hindered by the latency associated with integrating real-time web search results, compromising user experience. To
+overcome this, we present CharmBana, an innovative social chatbot
+that introduces the use of progressive response generation to effortlessly blend search results into the bot’s responses, while ensuring
+low response latency. The use of progressive responses is especially beneficial for voice-based chatbots, where the preliminary
+response buys time for a detailed follow-up, ensuring a smooth
+user interaction. As a result, our method not only cuts down user
+waiting times by 50% but also generates more relevant, precise, and
+engaging search inquiries. When tested in the Alexa Prize Socialbot
+Grand Challenge 5 , our chatbot employing progressive responses
+consistently received higher user ratings.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['top-down']
+tags: ['ir']
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,8 +56,8 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2310.14340.pdf'
-url_code: 'https://github.com/gangiswag/dialog-search-query/' 
+url_pdf: 'https://gangiswag.github.io/data/WSDM_2024_Demo_Alexa_SocialBot.pdf'
+url_code: '' 
 url_dataset: ''
 url_poster: ''
 url_project: ''

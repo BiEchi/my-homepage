@@ -29,10 +29,12 @@ content:
 
     - name: All
       tag: '*'
-    - name: Bottom Up
-      tag: bottom-up
-    - name: Top-down
-      tag: top-down
+    - name: Reinforcement Learning
+      tag: rl
+    - name: Representation Learning
+      tag: rep
+    - name: Information Retrieval
+      tag: ir
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
