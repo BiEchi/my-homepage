@@ -32,16 +32,7 @@ publication_types: ['1']
 publication: WSDM'24
 publication_short: In *WSDM'24*
 
-abstract: 'Chatbots are often hindered by the latency associated with integrating real-time web search results, compromising user experience. To
-overcome this, we present CharmBana, an innovative social chatbot
-that introduces the use of progressive response generation to effortlessly blend search results into the bot’s responses, while ensuring
-low response latency. The use of progressive responses is especially beneficial for voice-based chatbots, where the preliminary
-response buys time for a detailed follow-up, ensuring a smooth
-user interaction. As a result, our method not only cuts down user
-waiting times by 50% but also generates more relevant, precise, and
-engaging search inquiries. When tested in the Alexa Prize Socialbot
-Grand Challenge 5 , our chatbot employing progressive responses
-consistently received higher user ratings.'
+abstract: 'Chatbots are often hindered by the latency associated with integrating real-time web search results, compromising user experience. To overcome this, we present CharmBana, an innovative social chatbot that introduces the use of progressive response generation to effortlessly blend search results into the bot’s responses, while ensuring low response latency. The use of progressive responses is especially beneficial for voice-based chatbots, where the preliminary response buys time for a detailed follow-up, ensuring a smooth user interaction. As a result, our method not only cuts down user waiting times by 50% but also generates more relevant, precise, and engaging search inquiries. When tested in the Alexa Prize Socialbot Grand Challenge 5 , our chatbot employing progressive responses consistently received higher user ratings.'
 
 # Summary. An optional shortened abstract.
 summary: ''
