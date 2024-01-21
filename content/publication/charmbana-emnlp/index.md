@@ -16,7 +16,7 @@ authors:
 author_notes:
   -
 
-# date: '2022-06-08T00:00:00Z'
+# date: '2023-05-08T00:00:00Z'
 # doi: '10.1109/ICFTIC54370.2021.9647189'
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ author_notes:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['7']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: EMNLP'23
