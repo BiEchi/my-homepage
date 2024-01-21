@@ -6,10 +6,12 @@ title: 'CharmBana: Progressive Responses with Real-Time Internet Search for Know
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Revanth Gangi Reddy
+  - Sharath Chandra Etagi Suresh
   - admin
   - Wentao Yao
-  - Sharath Suresh
-  - Heng Ji
+  - Mankeerat Singh Sidhu
+  - Karan Aggarwal
+  - Prathamesh Sonawane
   - Chengxiang Zhai
 
 # Author notes (optional)
