@@ -11,5 +11,5 @@ weight: 60
 title: Collaboration
 ---
 
--   I don’t have any bandwidth to collaborate with any interns this semester (SP2024). 
--   My intern policy will be updated by end of SP2024.
+-   I don’t have bandwidth to collaborate with any undergraduate interns this semester (SP2024). 
+-   If you’re a graduate student, and you’re interested in language model interpretability, reach out to my email.
