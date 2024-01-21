@@ -52,7 +52,7 @@ links:
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2311.13110'
-url_code: 'git@github.com:Ma-Lab-Berkeley/CRATE.git' 
+url_code: 'https://github.com/Ma-Lab-Berkeley/CRATE.git' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
