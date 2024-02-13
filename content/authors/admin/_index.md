@@ -76,6 +76,6 @@ On the application side, I apply these studies to augment intelligence, with spe
 
 **Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, advised by Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), and a visiting scholar at BAIR, advised by Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ) and Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, he interned at MSR advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa SocialBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). 
 
-In my spare time, I do car racing and play guitar. 
+In my spare time, I do car racing (mainly drifting) and play guitar. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
