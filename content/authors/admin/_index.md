@@ -67,14 +67,14 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Hi, there! I'm Jack. I'm an M.S. student in Computer Science at University of Illinois Urbana-Champaign, where I’m fortunate to be advised by Prof. Nan Jiang and Heng Ji. The core of my research is in **robust machine learning** towards [**autonomous intelligence**](https://openreview.net/pdf?id=BZ5a1r-kVsf). I work on this problem upon two levels:
+Hi, there! I'm Jack. I'm an M.S. student in Computer Science at UIUC, where I’m fully devoted to **robust machine learning** towards [**autonomous intelligence**](https://openreview.net/pdf?id=BZ5a1r-kVsf). I work on this problem upon two levels:
 
 - I study **representation learning** for modern vision/language models (especially for causal attention) to understand & interpret what and how the models are learning.
 - Based on these understanding of foundation models, I study **closed-loop learning** algorithms like reinforcement learning and self-supervised learning upon these models.
 
 Methodologies I often use to enhance the approaches often include making *interactions* with agents as well as retriving *external knowledge* as grouding signals.
 
-**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, advised by Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), and a visiting scholar at BAIR, advised by Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ) and Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, he interned at MSR advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa SocialBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). 
+**Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ) and [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), and a visiting scholar at BAIR, advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN) and Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, he interned at MSR advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Alexa SocialBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). 
 
 In my spare time, I do car racing (mainly drifting) and play guitar. 
 
