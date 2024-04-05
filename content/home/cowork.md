@@ -11,5 +11,4 @@ weight: 60
 title: Collaboration
 ---
 
--   I don’t have bandwidth to collaborate with any undergraduate interns this semester (SP2024). 
--   If you’re a graduate student, and you’re interested in language model interpretability, reach out to my email.
+-   Only referred collaboration from UC Berkley will be considered (updated SP24)

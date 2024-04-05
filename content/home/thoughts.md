@@ -1,6 +1,6 @@
 ---
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -19,17 +19,9 @@ If we don't go this way, interpretability usually decreases performance, because
 
 This is why **principled methods** are valuable: principled methods are **intrinsically interpretable**. When the method has a bad performance, it will not be published; when the method has a good performance, it's interpretable. Principled methods like [CRATE](https://github.com/Ma-Lab-Berkeley/CRATE) and [Information Band Theory](https://arxiv.org/pdf/1703.00810.pdf) are good examples of this claim. This is the reason why **I prefer principled methods compared to purely statistical methods.**
 
-**Value of Research**
+**On Model Edit**
 
-In a discussion with Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ), he mentioned the key value of research across all subjects: a valuable research should either **propose a new question** or **propose a new solution to an existing question**. A new question is usually more difficult to define, because the value of the question is highly dependent on **both academic and real-world recognization**. The value of a  solution is evaluated by **metrics**, which are defined by the question, but the value of a question is evaluated by **human**, who is defined by physics.
-
-Going either way, it's inevitable to do comprehensive survey before designing any methods. After proposing an idea, it's extremely important to do comprehensive survey on the topic to refine the idea and method. It's also important to give presentations on the idea to people from various backgrounds, including **home-area specialists** on the method feasibility, **away-area specialists** on approach value, and **out-of-area audience** on real-life value. For example, when you want to use ML-based methods to develop a new drug, you need home-area (ML) guys to look at your method, away-area (chemistry) guys to assess the value of the approach, and out-of-area audience (like your parents) to comment on high-level real-life value.
-
-Under such framework, quick publication is not a good idea for a real researcher, because they lack a ton of considerations and real-life applications. As suggested by Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), when she assesses a student, **quality is much more important than quantity**. A student must have 1st authorship paper published at top-tier conference, but as long as he has some, the number becomes insignificant. Having publishments means the student has participated in the complete process of a research, and having a **solid** and **creative** publishment means the student is strict and creative. On the other hand, having too many publications is extremely confusing to PIs when they view the CV and may lead to an impression that the student focuses more on **fame** per se instead of **research**. This kind of impression is extremely bad and usually causes an instinctive refusion.
-
-**On Model Edit by Changing Weights Directly**
-
-I’m a strongly against the idea to edit model weights directly. Editing a neuron (or a layer) changes not only this fact, but potentially all the facts, and it inadvertently hurts the model representation. The only promising way to change is to only change a single neuron that’s controlling this specific fact, but research has shown that transformer models try to compress representations, so it’s not possible for find orthogonal subspaces of facts for neurons.
+Don’t edit model weights directly. This is based change a single neuron that’s controlling this specific fact, but research has shown that transformer models try to compress representations, so it’s not possible for find orthogonal subspaces of facts for neurons.
 
 **The Three Circles**
 
