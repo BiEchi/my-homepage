@@ -72,7 +72,7 @@ Hi, there! I'm Jack. I'm an M.S. student in Computer Science at UIUC, where I’
 - I study **representation learning** for foundation models in order to interpret their behaviors.
 - I study **reinforcement learning** algorithms for foudation models based on the so-derived understandings.
 
-To facilitate truthfulness, I also study *information retrieval* to provide grouding signals.
+I’m also slightly involved in *data augmentation* to enhance intelligence.
 
 **Bio:** Jack Bai is an M.S. student in Computer Science at UIUC, advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ) and [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), and a visiting scholar at BAIR, advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN) and Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, he interned at Micromost Research advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Amazon SocialBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ).
 
