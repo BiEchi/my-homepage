@@ -1,6 +1,6 @@
 ---
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,10 @@ title: Quotes
 ---
 
 We have to learn the bitter lesson that building in how we think we think does not work in the long run.
-The two methods that seem to scale arbitrarily ... are learning and search. -- Richard Sutton
+The two methods that seem to scale arbitrarily ... are learning and search. 
+
+-- *Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), 2019*
+
 
 <!--**Interpretability**
 
@@ -34,5 +37,4 @@ The passion circle means the intrinsic passion of a person doing research, and w
 
 The benefit circle means the value of the research. A good research usually tackles a very important problem in society and **construes of no less than 3 papers** published at top-tier conferences. Having multiple papers on one topic is usually an excellent signal because the project is proved to be recognized and has great potential, which is usually beneficial to the society or academy.
 
-The resource circle limits what a researcher is good at. As an undergraduate student, it's usually okay to explore around and see where his strength is. However, graduate researchers are required to **find his own strengths and weaknesses** in order to propose a suitable project. An eligible researcher should always utilize his strength for research while still learn to make up his weakness. If someone is not good at abstract thinking, asking him to do pure math research kills him; if someone loves abstract deduction, doing practical projects makes him sleepy. If you don't have lots of GPUs, avoid doing experiments with LM pretraining and LLM fine-tuning - this is not gonna work if you don't have enough computational resources, so **choose ideas wisely**. **This is not even about going out of your comfort zone, it's how physics works.** Concurrently, making up the shortness is important because although he can avoid creating knowledge related to his weaknesses, he can't avoid reading them. When encountering a paper that is hard to understand, try not to skip it and make up the weakness using that paper.
--->
+The resource circle limits what a researcher is good at. As an undergraduate student, it's usually okay to explore around and see where his strength is. However, graduate researchers are required to **find his own strengths and weaknesses** in order to propose a suitable project. An eligible researcher should always utilize his strength for research while still learn to make up his weakness. If someone is not good at abstract thinking, asking him to do pure math research kills him; if someone loves abstract deduction, doing practical projects makes him sleepy. If you don't have lots of GPUs, avoid doing experiments with LM pretraining and LLM fine-tuning - this is not gonna work if you don't have enough computational resources, so **choose ideas wisely**. **This is not even about going out of your comfort zone, it's how physics works.** Concurrently, making up the shortness is important because although he can avoid creating knowledge related to his weaknesses, he can't avoid reading them. When encountering a paper that is hard to understand, try not to skip it and make up the weakness using that paper. -->
