@@ -15,7 +15,7 @@ We have to learn the bitter lesson that building in how we think we think does n
 
 -- *Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), 2019*
 
-Learning is to use data to extract patterns, and search is to use computation to extract inferences. It is optimization procedure that uses computation to make rational decisions.
+**Learning** is to use data to extract patterns, and **search** is the optimization procedure that uses computation to make rational decisions.
 
 -- *Sergey Levine, [RL with Large Datasets](https://www.youtube.com/watch?v=wraCgn27kVA), 2023*
 
