@@ -20,7 +20,6 @@ bio: Learn and think.
 interests:
   - Representation Learning
   - Reinforcement Learning
-  - Information Retrieval
 
 # Education to show in About widget
 education:
