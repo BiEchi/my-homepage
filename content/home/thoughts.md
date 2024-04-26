@@ -11,15 +11,13 @@ weight: 100
 title: Quotes
 ---
 
-We have to learn the bitter lesson that building in how we think we think does not work in the long run.
-The two methods that seem to scale arbitrarily ... are **learning** and **search**. 
+We have to learn the bitter lesson that building in how we think we think does not work in the long run. The two methods that seem to scale arbitrarily ... are **learning** and **search**. 
 
 -- *Richard Sutton, [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), 2019*
 
-Learning: Use data to extract patterns.
+Learning is to use data to extract patterns, and search is to use computation to extract inferences. It is optimization procedure that uses computation to make rational decisions.
 
-Search: Use computation to extract inferences. Optimization procedure that uses computation to make rational decisions.
-
+-- *Sergey Levine, [RL with Large Datasets](https://www.youtube.com/watch?v=wraCgn27kVA), 2023*
 
 <!--**Interpretability**
 
