@@ -11,4 +11,4 @@ weight: 60
 title: Collaboration
 ---
 
--   Only referred collaboration from UC Berkley will be considered (updated SP24)
+-   Only referred collaboration from UC Berkeley will be considered (updated SP24)
