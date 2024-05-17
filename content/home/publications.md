@@ -33,8 +33,8 @@ content:
       tag: rl
     - name: Representation Learning
       tag: rep
-    - name: Information Retrieval
-      tag: ir
+    - name: Data-driven Fine-tuning
+      tag: sft
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -50,5 +50,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-
-The publications are not complete. Some work are protected and some work are still in the publication process.

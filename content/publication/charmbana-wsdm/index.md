@@ -39,7 +39,7 @@ abstract: 'Chatbots are often hindered by the latency associated with integratin
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['ir']
+tags: ['sft']
 
 # Display this page in the Featured widget?
 featured: false
