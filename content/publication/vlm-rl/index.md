@@ -53,9 +53,9 @@ links:
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2405.10292'
-url_code: 'https://rl4vlm.github.io/'
+url_code: 'https://github.com/RL4VLM/RL4VLM'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://rl4vlm.github.io/'
 url_project: ''
 url_slides: ''
 url_source: ''
