@@ -66,10 +66,7 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Hi, there! I'm Jack. I'm an MSCS student at UIUC advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ), and a visiting scholar at UC Berkeley advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN). I’m fully devoted to [autonomous intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) upon two levels:
-
-- I study **representation learning** for foundation models in order to interpret their behaviors.
-- I study **reinforcement learning** algorithms for foudation models based on the so-derived understandings.
+Hi, there! I'm Jack. I'm an MSCS student at UIUC advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ), and a visiting scholar at UC Berkeley advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN). I’m fully devoted to [autonomous intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) upon two levels: (1) I study **representation learning** for foundation models in order to interpret their behaviors. (2) I study **reinforcement learning** algorithms for foudation models based on the so-derived understandings.
 
 Previously, I was a visiting scholar of Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ), and was a research assistant of Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ) and Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). Before master's, I obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, I interned at Microsoft Research (Asia) advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ).
 
