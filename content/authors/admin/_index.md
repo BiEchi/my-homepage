@@ -66,14 +66,12 @@ email: 'haob2@illinois.edu'
 highlight_name: true
 ---
 
-Hi, there! I'm Jack. I'm an M.S. student in Computer Science at UIUC, where I’m fully devoted to [**autonomous intelligence**](https://openreview.net/pdf?id=BZ5a1r-kVsf). I work on this problem upon two levels:
+Hi, there! I'm Jack. I'm an MSCS student at UIUC advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ), and a visiting scholar at UC Berkeley advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN). I’m fully devoted to [autonomous intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) upon two levels:
 
 - I study **representation learning** for foundation models in order to interpret their behaviors.
 - I study **reinforcement learning** algorithms for foudation models based on the so-derived understandings.
 
-I’m also slightly involved in *data augmentation* to enhance intelligence.
-
-**Bio:** Jack Bai is an M.S. student in [Computer Science](https://cs.illinois.edu/) at UIUC, advised by Prof. [Nan Jiang](https://scholar.google.com/citations?user=nUlanA8AAAAJ) and [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ), and a visiting scholar at BAIR, advised by Prof. [Sergey Levine](https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=zh-CN) and [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ). Before master's, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, he interned at Microsoft Research advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ), and participated in the [Amazon SocialBot Challenge](https://www.amazon.science/alexa-prize/teams/charmana-2022) advised by Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ).
+Previously, I was a visiting scholar of Prof. [Yi Ma](https://scholar.google.com/citations?hl=zh-CN&user=XqLiBQMAAAAJ), and was a research assistant of Prof. [Heng Ji](https://scholar.google.com/citations?hl=zh-CN&user=z7GCqT4AAAAJ) and Prof. [Chengxiang Zhai](https://scholar.google.com/citations?hl=zh-CN&user=YU-baPIAAAAJ). Before master's, I obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. During those wonderful years, I interned at Microsoft Research (Asia) advised by Dr. [Shilin He](https://scholar.google.com/citations?hl=zh-CN&user=wECvv2UAAAAJ).
 
 <!-- In my spare time, I do street drift and play guitar. -->
 
