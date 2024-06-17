@@ -6,6 +6,12 @@
   HUGO_VERSION = "0.97.3"
   HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "/*"
+  to = "https://biechi.github.io"
+  status = 301
+  force = true
+
 [context.production.environment]
   HUGO_ENV = "production"
 
